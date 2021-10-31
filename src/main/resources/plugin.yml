@@ -1,0 +1,8 @@
+main: com.mcw.rides.Main
+name: MCW-Rides
+version: 0.1
+author: XanderWander
+api-version: 1.16
+commands:
+  ride:
+    description: command
